@@ -6,14 +6,14 @@ body{
 #container{
     width: 1000px;
     height: 550px;
-    /*background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(bgImg.jpg);*/
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(bgImg.jpg);
     margin: 20px auto;
 }
 
 #calculator{
     width: 320px;
     height: 520px;
-    background-color: #eeaaee;
+    background-color: gray;
     margin: 0 auto;
     top: 20px;
     position: relative;
@@ -58,7 +58,7 @@ body{
 }
 
 .number, .empty{
-    background-color: #eeaaee;
+    background-color: gray;
 
 }
 
